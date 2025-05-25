@@ -37,42 +37,8 @@ SQL
 PostgreSQL
 ⭐⭐ (Beginner)
 
-{
-  "type": "bar",
-  "data": {
-    "labels": ["C", "C++", "Python", "JavaScript", "SQL", "PostgreSQL"],
-    "datasets": [{
-      "label": "Proficiency (%)",
-      "data": [90, 85, 85, 75, 75, 65],
-      "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#FF9F40"],
-      "borderColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#FF9F40"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "max": 100,
-        "title": {
-          "display": true,
-          "text": "Proficiency (%)"
-        }
-      },
-      "x": {
-        "title": {
-          "display": true,
-          "text": "Skills"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": false
-      }
-    }
-  }
-}
+
+
 
 📈 GitHub Stats & Most Used Languages
 🔹 Top Languages
@@ -84,7 +50,7 @@ PostgreSQL
 🛠️ Current Focus
 
 🌱 Currently learning: Postgres, Flask
-🔨 Working on: A online Shop Website
+🔨 Working on: A online Shop Website (replace with actual project link)
 
 
 
@@ -98,7 +64,8 @@ PostgreSQL
 
 📬 Get in Touch
 
-
+📧 Email: your.email@example.com
+🐦 X: Your X Handle
 💼 LinkedIn: Your LinkedIn
 
 
