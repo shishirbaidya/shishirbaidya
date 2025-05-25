@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **Postgres,API development**
+- 🌱 I’m currently learning **Postgres,API development and Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
