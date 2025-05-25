@@ -37,8 +37,6 @@ SQL
 PostgreSQL
 ⭐⭐ (Beginner)
 
-
-📊 Proficiency Chart
 {
   "type": "bar",
   "data": {
@@ -75,8 +73,6 @@ PostgreSQL
     }
   }
 }
-
-
 
 📈 GitHub Stats & Most Used Languages
 🔹 Top Languages
