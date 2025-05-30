@@ -1,7 +1,7 @@
 <br clear="both">
 
 
-<h2 align="left">Hi 👋! My name is Shishir Baidya and I'm an undergraduate student majoring in Computer Science. I'm passionate about Data Science and Data Engineering. </h2>
+<h2 align="left">Hi 👋! My name is `Shishir` Baidya and I'm an undergraduate student majoring in Computer Science. I'm passionate about Data Science and Data Engineering. </h2>
 
 ###
 
