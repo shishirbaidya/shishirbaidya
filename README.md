@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shishirbaidya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 ### Languages and tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,11 +43,11 @@
   </a>
 </div>
 
-### Contribution points snake
+### Contribution points snake :
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/shishirbaidya/shishirbaidya/output/snake.svg" alt="Snake animation" />
 
-###
+
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=shishirbaidya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
