@@ -1,5 +1,6 @@
 <br clear="both">
 
+
 <h2 align="left">Hi 👋! My name is Shishir Baidya and I'm an undergraduate student majoring in Computer Science. I'm passionate about Data Science and Data Engineering. </h2>
 
 ###
@@ -49,4 +50,4 @@
 
 ###
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=shishirbaidya&theme=radical&no-frame=false&no-bg=true&margin-w=4)a
+![](https://github-profile-trophy.vercel.app/?username=shishirbaidya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
