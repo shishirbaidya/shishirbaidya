@@ -2,14 +2,11 @@
 
 # Hi, I'm **Shishir Baidya** 👋
 
-### Computer Science & Engineering Student  
-**North South University • Dhaka**
-
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨🏽‍💻 About Me
 
 I'm a passionate Computer Science student focused on building efficient systems and exploring the intersection of software engineering and data.  
 Currently pursuing my **BSc in Computer Science and Engineering** at **North South University, Dhaka**.
@@ -32,7 +29,7 @@ I enjoy writing clean code, learning low-level systems, and working with modern 
 
 ---
 
-### 🎯 Currently Exploring
+### 🤯 Currently Exploring
 
 - Systems programming with **Rust** & **Go**
 - Backend architecture and database design
