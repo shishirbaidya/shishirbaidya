@@ -31,6 +31,6 @@ I enjoy writing clean code, learning low-level systems, and working with modern 
 
 ### 🤯 Currently Exploring
 
-- Systems programming with **Rust** & **Go**
+- Systems programming with **Rust** & **C**
 - Backend architecture and database design
-- Building scalable and performant applications
+- Problem solving with DSA
